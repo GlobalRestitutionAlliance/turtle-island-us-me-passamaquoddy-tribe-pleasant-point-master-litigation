@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=ME+PASSAMAQUODDY+TRIBE+PLEASANT+POINT",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=ME+PASSAMAQUODDY+TRIBE+PLEASANT+POINT",
+  "title": "Federal Register - ME PASSAMAQUODDY TRIBE PLEASANT POINT",
+  "fetched_at": "2026-11-23T17:34:27.203201Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 225680,
+  "sha256": "2a0123c7252d6b62f52022f6bf28ec87d80549f8c07c6546c004455416b4a449",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
